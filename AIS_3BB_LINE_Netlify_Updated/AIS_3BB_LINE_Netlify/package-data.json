@@ -1,0 +1,379 @@
+[
+  {
+    "slug": "internet-only",
+    "title": "BROADBAND24",
+    "description": "เน็ตบ้าน พร้อมตัวเลือกระยะสัญญา 12 และ 24 เดือน",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/internet-only",
+    "cards": [
+      {
+        "name": "BROADBAND24",
+        "price": "1,200 บาท",
+        "features": [
+          "ระยะสัญญา 12 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      },
+      {
+        "name": "BROADBAND24",
+        "price": "700 บาท",
+        "features": [
+          "ระยะสัญญา 12 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 500 Mbps"
+      },
+      {
+        "name": "BROADBAND24",
+        "price": "600 บาท",
+        "features": [
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 500 Mbps"
+      },
+      {
+        "name": "BROADBAND24",
+        "price": "600 บาท",
+        "features": [
+          "ระยะสัญญา 12 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      },
+      {
+        "name": "BROADBAND24",
+        "price": "500 บาท",
+        "features": [
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      },
+      {
+        "name": "BROADBAND24",
+        "price": "499 บาท",
+        "features": [
+          "ระยะสัญญา 12 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 300 Mbps / 300 Mbps"
+      }
+    ],
+    "terms": [
+      "ใช้ได้กับบุคคลธรรมดาและนิติบุคคล ในที่พักอาศัยแบบ FTTH/FTTR",
+      "ยืมเราเตอร์ 1 เครื่อง และส่วนลดติดตั้ง/สายภายนอก 4,800 บาท ตามสัญญา 12 หรือ 24 รอบบิล หากเลิกก่อนกำหนดอาจมีค่าใช้จ่ายตามสัดส่วน",
+      "ค่าแรกเข้า 800 บาท คืนเป็นส่วนลด 100 บาท × 8 รอบบิล; เจ้าบ้านตามทะเบียนหรือผู้มีหลักฐานเป็นเจ้าของบ้านได้รับยกเว้น การพักบริการทำให้สิทธิ์คืนส่วนลดหยุดลง",
+      "ห้ามย้ายจุดติดตั้งใน 6 เดือนแรก และลดความเร็วแพ็กเกจระหว่างสัญญาไม่ได้",
+      "ได้รับ Private IPv4 และ Public IPv6 รองรับ Bridge Mode และ Port Forwarding ผ่านการลงทะเบียน 3BB DDNS",
+      "Speed Toggle: ความเร็วตั้งแต่ 100 Mbps แต่ต่ำกว่า 1000/500 Mbps ปรับได้ 30 ชั่วโมง/ครั้ง สูงสุด 10 ครั้ง/เดือน; ตั้งแต่ 1000/500 แต่ต่ำกว่า 1000/1000 Mbps ปรับได้ไม่จำกัดครั้ง",
+      "ติดตั้งภายใน 24 ชั่วโมงเมื่อเอกสารครบ ยกเว้นการสมัครออนไลน์; แก้ปัญหาภายใน 24 ชั่วโมงหลังแจ้ง 1175/1530 ยกเว้นเหตุสุดวิสัยหรือเข้าพื้นที่ไม่ได้",
+      "คืนอุปกรณ์ยืมภายใน 15 วันหลังยกเลิก; เสริม AIS PLAYBOX ได้ 129 บาท/เดือน/จุด สัญญา 24 เดือน"
+    ]
+  },
+  {
+    "slug": "Net-EntertainmentGang",
+    "title": "Net and Entertainment Gang",
+    "description": "รวมเน็ตบ้านและแอปความบันเทิงในแพ็กเกจเดียว",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/Net-EntertainmentGang",
+    "cards": [
+      {
+        "name": "Net and Entertainment Gang",
+        "price": "799 บาท",
+        "features": [
+          "1 Router WiFi 6",
+          "AIS PLAYBOX + PLAY STANDARD PLUS",
+          "AIS Secure Net​ ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 500 Mbps"
+      },
+      {
+        "name": "Net and Entertainment Gang",
+        "price": "699 บาท",
+        "features": [
+          "1 Router WiFi 6",
+          "AIS PLAYBOX + PLAY STANDARD PLUS",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      },
+      {
+        "name": "Net and Entertainment Gang",
+        "price": "599 บาท",
+        "features": [
+          "1 Router WiFi 6",
+          "AIS PLAYBOX + PLAY LITE",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      }
+    ],
+    "terms": [
+      "ทุกราคามีเราเตอร์ WiFi 6 จำนวน 1 เครื่อง, AIS PLAYBOX และ AIS Secure Net; สัญญา 24 เดือน",
+      "PLAY LITE รวม HBO Max Standard รับชม 2 อุปกรณ์; PLAY STANDARD PLUS รวม HBO Max, Disney+, VIU, WeTV และ iQIYI",
+      "จำนวนอุปกรณ์ที่รับชมพร้อมกัน: AIS PLAY 2, HBO Max 2, Disney+ 2, VIU 5, WeTV 2 และ iQIYI 2 ตามแพ็กเกจที่ได้รับ",
+      "สิทธิ์แอปบันเทิงสำหรับบุคคลธรรมดา ใช้ภายในประเทศและไม่ใช้เชิงพาณิชย์; สิทธิ์สิ้นสุดเมื่อยกเลิกแพ็กเกจ",
+      "ส่วนลดติดตั้ง 4,800 บาท เมื่อใช้ครบ 24 รอบบิล; เลิกก่อนกำหนดคิดคืนตามสัดส่วน หรือชำระค่าติดตั้งในบิลแรกตามทางเลือกในเงื่อนไข",
+      "ค่าแรกเข้า 800 บาท คืนเป็นส่วนลด 100 บาท × 8 รอบบิล; หยุดคืนส่วนลดเมื่อพักบริการ",
+      "ไม่ย้ายจุดติดตั้งใน 6 เดือนแรก ไม่ลดความเร็วระหว่างสัญญา; ลูกค้าเดิมที่รับอุปกรณ์ใหม่เริ่มสัญญา 24 รอบบิล",
+      "Private IPv4 + Public IPv6 รองรับ Bridge Mode และ Port Forwarding ผ่าน 3BB DDNS; คืนอุปกรณ์ยืมภายใน 15 วันหลังเลิกบริการ",
+      "AIS Secure Net ใช้ผ่าน DNS เครือข่าย AIS; สิทธิ์บันเทิงเริ่มหลัง SMS ยืนยันภายใน 3 วัน; สิทธิ์ที่ไม่ใช้ไม่สะสมข้ามรอบบิล",
+      "ลูกค้า AIS รายเดือนยอดใช้งานตั้งแต่ 349 บาท รับ On-Top Internet เฉพาะหมายเลขที่ใช้รับสิทธิ์ ตามเงื่อนไขต้นทาง"
+    ]
+  },
+  {
+    "slug": "super-mesh",
+    "title": "Super Mesh",
+    "description": "เราเตอร์ 2 เครื่อง สำหรับขยายสัญญาณในบ้าน",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/super-mesh",
+    "cards": [
+      {
+        "name": "SuperMesh",
+        "price": "699 บาท",
+        "features": [
+          "2 Router MESH WiFi6",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 500 Mbps"
+      },
+      {
+        "name": "SuperMesh 1.5 Gbps/500 Mbps",
+        "price": "1,099 บาท",
+        "features": [
+          "2 Router BE3600 WiFi7​",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1.5 Gbps / 500 Mbps"
+      },
+      {
+        "name": "SuperMesh Play Max 1.5 Gbps/500 Mbps",
+        "price": "1,299 บาท",
+        "features": [
+          "2 Router BE3600 WiFi7​",
+          "AIS PLAYBOX + PLAY MAGNUM 24 เดือน",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1.5 Gbps / 500 Mbps"
+      }
+    ],
+    "terms": [
+      "ทุกตัวเลือกมีเราเตอร์ 2 เครื่อง และสัญญา 24 เดือน; รุ่นอุปกรณ์ขึ้นอยู่กับแพ็กเกจและพื้นที่",
+      "ค่าแรกเข้า 800 บาท คืนส่วนลด 100 บาท × 8 รอบบิล หากพักบริการสิทธิ์คืนส่วนลดหยุดลง",
+      "ส่วนลดติดตั้งและสายภายนอก 4,800 บาท เมื่อใช้ครบสัญญา; เลิกก่อนครบมีค่าใช้จ่ายตามสัดส่วน",
+      "PLAY MAGNUM ในแพ็กเกจ Play Max รวม Max, VIU, WeTV, iQIYI, MONOMAX และ AIS KARAOKE สำหรับบุคคลธรรมดา",
+      "รับชมพร้อมกัน: AIS PLAY 4 อุปกรณ์; HBO Max 2, VIU 5, WeTV 2, iQIYI 2, MONOMAX 3 และ AIS KARAOKE 1 ตามสิทธิ์บริการ",
+      "แพ็กเกจ 1.5 Gbps ใช้ Private IPv4 + Public IPv6; แพ็กเกจ 1 Gbps/500 Mbps ระบุ Public IPv4 + Public IPv6 รองรับ Port Forwarding และ Bridge Mode",
+      "ไม่ย้ายจุดติดตั้งใน 6 เดือนแรก ไม่ลดความเร็วระหว่าง 24 รอบบิล; ลูกค้าเดิมที่รับอุปกรณ์ใหม่เริ่มสัญญาใหม่ตามเงื่อนไข",
+      "ยืมอุปกรณ์และต้องคืนเมื่อยกเลิก; สิทธิ์บันเทิงสิ้นสุดเมื่อยกเลิกแพ็กเกจ",
+      "ข้อสังเกตจากต้นทาง: การ์ด 1.5 Gbps ระบุ BE3600 WiFi 7 แต่เงื่อนไขส่วนหนึ่งยังระบุ AX5400 WiFi 6 จึงต้องยืนยันรุ่นที่จะได้รับก่อนสมัคร"
+    ]
+  },
+  {
+    "slug": "home-fibrelan",
+    "title": "Home FibreLAN Plus",
+    "description": "เชื่อมต่อด้วยไฟเบอร์ภายในบ้าน เลือกได้ 2–5 ห้อง",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/home-fibrelan",
+    "cards": [
+      {
+        "name": "Home FibreLAN Plus 1 Gbps/1 Gbps 2 ห้อง",
+        "price": "899 บาท",
+        "features": [
+          "จำนวนที่ใช้งาน 2 ห้อง",
+          "AIS PLAYBOX + PLAY LITE",
+          "เน็ตมือถือ 20GB",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      },
+      {
+        "name": "Home FibreLAN Plus 1 Gbps/1 Gbps 3 ห้อง",
+        "price": "1,199 บาท",
+        "features": [
+          "จำนวนที่ใช้งาน 3 ห้อง",
+          "AIS PLAYBOX + PLAY LITE",
+          "เน็ตมือถือ 20GB",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      },
+      {
+        "name": "Home FibreLAN Plus 1 Gbps/1 Gbps 4 ห้อง",
+        "price": "1,499 บาท",
+        "features": [
+          "จำนวนที่ใช้งาน 4 ห้อง",
+          "AIS PLAYBOX + PLAY LITE",
+          "เน็ตมือถือ 20GB",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      },
+      {
+        "name": "Home FibreLAN Plus 1 Gbps/1 Gbps 5 ห้อง",
+        "price": "1,799 บาท",
+        "features": [
+          "จำนวนที่ใช้งาน 5 ห้อง",
+          "AIS PLAYBOX + PLAY LITE",
+          "เน็ตมือถือ 20GB",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      }
+    ],
+    "terms": [
+      "มีตัวเลือก 2–5 ห้อง ความเร็ว 1 Gbps/1 Gbps, AIS PLAYBOX + PLAY LITE และเน็ตมือถือ 20GB; สัญญา 24 เดือน",
+      "ยกเว้นค่าแรกเข้าทุกแพ็กเกจ; ส่วนลดติดตั้งและเดินสายภายนอก 4,800 บาท เมื่อใช้ครบ 24 รอบบิล เลิกก่อนกำหนดคิดตามสัดส่วน",
+      "ไม่สามารถย้ายจุดติดตั้งตลอดสัญญา หรือลดความเร็วระหว่างสัญญา; การเปลี่ยนหรือเพิ่มอุปกรณ์สำหรับลูกค้าเดิมเริ่มสัญญา 24 รอบบิล",
+      "อุปกรณ์ยืมรวม 2/3/4/5 เครื่อง มูลค่า 11,180 / 16,770 / 22,360 / 27,950 บาท ตามจำนวนห้อง และต้องคืนเมื่อเลิกบริการ",
+      "Private IPv4 พร้อม DDNS และ Public IPv6 รองรับ Port Forwarding โดยลงทะเบียน 3BB DDNS",
+      "ซิมเปิดเบอร์ใหม่รายเดือน: เน็ต 20GB หลังจากนั้นสูงสุด 64 Kbps; สิทธิ์ 24 รอบบิล",
+      "ค่าใช้เกินสิทธิ์: โทรหรือวิดีโอคอล 1.50 บาท/นาที, SMS 2.50 บาท/ข้อความ, MMS 4.50 บาท/ข้อความ ยังไม่รวม VAT",
+      "Multi SIM, AIS Hot Deal, Apple Watch Device และเหมา เหมา Share ไม่ร่วมสิทธิ์; เน็ตที่เหลือไม่สะสมข้ามรอบบิล",
+      "ได้รับ PLAY LITE และ AIS SUPER WiFi ไม่จำกัด หลัง SMS ยืนยัน; รองรับ Fixed Line และ PLAYBOX เพิ่ม 129 บาท/เดือน/จุด สัญญา 24 เดือน แต่ไม่รองรับ AIS Fibre MESH WiFi เสริม",
+      "ความเร็วขึ้นอยู่กับอุปกรณ์และเครือข่าย; อุปกรณ์ปลายทางที่รองรับช่องสัญญาณ 160MHz จึงเหมาะกับการใช้งานตามเงื่อนไข"
+    ]
+  },
+  {
+    "slug": "sme",
+    "title": "SME",
+    "description": "เลือกความเร็วและบริการเครือข่ายให้เหมาะกับธุรกิจ",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/sme",
+    "cards": [
+      {
+        "name": "SME Choice Start Up",
+        "price": "690 บาท",
+        "features": [
+          "2 Router MESH WiFi 6",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      },
+      {
+        "name": "SME Choice Start Up",
+        "price": "890 บาท",
+        "features": [
+          "2 Router MESH WiFi 6",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 500 Mbps"
+      },
+      {
+        "name": "SME Smart Choice",
+        "price": "1,099 บาท",
+        "features": [
+          "1 Router AX5400",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 12 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1.5 Gbps / 1 Gbps"
+      },
+      {
+        "name": "SME Choice Start UP PLUS",
+        "price": "1,190 บาท",
+        "features": [
+          "2 Router MESH WiFi 6",
+          "Fixed IP ฟรี",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 500 Mbps / 500 Mbps"
+      },
+      {
+        "name": "SME Choice Start UP PLUS",
+        "price": "1,590 บาท",
+        "features": [
+          "2 Router MESH WiFi 6",
+          "HomeFibreLAN 1 จุด",
+          "Fixed IP ฟรี",
+          "Traffic Monitoring ฟรี",
+          "AIS Secure Net ฟรี",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "ความเร็วสูงสุด (ดาวน์โหลด/อัปโหลด) 1 Gbps / 1 Gbps"
+      }
+    ],
+    "terms": [
+      "ราคาและอุปกรณ์แยกตามแต่ละแพ็กเกจ รุ่นอุปกรณ์ที่ติดตั้งขึ้นอยู่กับพื้นที่ให้บริการ",
+      "Start Up: MESH WiFi 6 จำนวน 2 เครื่อง พร้อม AIS Secure Net; Smart Choice: AX5400 จำนวน 1 เครื่อง สัญญา 12 เดือน",
+      "Start UP PLUS มี Fixed IP; รุ่น 1,590 บาทเพิ่ม HomeFibreLAN 1 จุด และ Traffic Monitoring",
+      "ความเร็วเป็นการใช้แบนด์วิดท์ร่วมกัน ผลใช้งานจริงขึ้นกับเครือข่าย อุปกรณ์ ระยะทางและเซิร์ฟเวอร์ โดยช่วง 18:00–24:00 น. อาจต่ำกว่าความเร็วแพ็กเกจ",
+      "ตรวจสอบเงื่อนไขสัญญา ค่าติดตั้ง และบริการที่พื้นที่รองรับก่อนสมัคร"
+    ]
+  },
+  {
+    "slug": "topup",
+    "title": "TopUp",
+    "description": "เพิ่มอุปกรณ์ ความเร็ว โทรศัพท์ และ Cloud PC",
+    "url": "https://www.fiber.3bb.co.th/main/package-internet/topup",
+    "cards": [
+      {
+        "name": "TOP UP AIS PLAYBOX",
+        "price": "129 บาท",
+        "features": [
+          "AIS PLAYBOX",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "บริการเสริม จ่ายเพิ่ม 129 บาท/เดือน"
+      },
+      {
+        "name": "TOP UP MESH WiFi",
+        "price": "69 บาท",
+        "features": [
+          "MESH WiFi",
+          "ระยะสัญญา 24 เดือน"
+        ],
+        "detail": "บริการเสริม จ่ายเพิ่ม 69 บาท/เดือน"
+      },
+      {
+        "name": "TOP UP UP SPEED 1 Gbps/ 1 Gbps",
+        "price": "300 บาท",
+        "features": [
+          "UP SPEED 1 Gbps/ 1 Gbps"
+        ],
+        "detail": "บริการเสริม จ่ายเพิ่ม 300 บาท/เดือน"
+      },
+      {
+        "name": "TOP UP HOME FibreLAN 1 Gbps",
+        "price": "300 บาท",
+        "features": [
+          "Home FibreLAN 1 Gbps"
+        ],
+        "detail": "บริการเสริม จ่ายเพิ่ม 300 บาท/เดือน"
+      },
+      {
+        "name": "TOP UP Voice ฟรี 200 นาที",
+        "price": "50 บาท",
+        "features": [
+          "Fixed Voice ฟรี 200 นาที"
+        ],
+        "detail": "บริการเสริม จ่ายเพิ่ม 50 บาท/เดือน"
+      },
+      {
+        "name": "Cloud PC Standard",
+        "price": "299 บาท",
+        "features": [
+          "CPU 4 vCPU",
+          "RAM 8 GB",
+          "พื้นที่จัดเก็บข้อมูล 500 GB"
+        ],
+        "detail": ""
+      },
+      {
+        "name": "Cloud PC High Performance",
+        "price": "499 บาท",
+        "features": [
+          "CPU 8 vCPU",
+          "RAM 16 GB",
+          "พื้นที่จัดเก็บข้อมูล 1 TB"
+        ],
+        "detail": ""
+      }
+    ],
+    "terms": [
+      "ค่าบริการในหมวดนี้เป็นค่าเสริมรายเดือน ต้องมีแพ็กเกจหลักที่รองรับก่อนสมัคร",
+      "AIS PLAYBOX 129 บาท/เดือน และ MESH WiFi 69 บาท/เดือน มีสัญญา 24 เดือน",
+      "UP SPEED 1 Gbps/1 Gbps และ Home FibreLAN 1 Gbps อย่างละ 300 บาท/เดือน; Fixed Voice 50 บาท/เดือน พร้อมโทร 200 นาที",
+      "Cloud PC Standard: 4 vCPU, RAM 8GB, พื้นที่ 500GB ราคา 299 บาท/เดือน; High Performance: 8 vCPU, RAM 16GB, พื้นที่ 1TB ราคา 499 บาท/เดือน",
+      "รายการที่หน้าเว็บไม่ระบุระยะสัญญา ต้องตรวจสอบก่อนสมัคร โดยไม่ถือว่าเป็นบริการไม่มีสัญญา",
+      "ต้นทางมีหัวข้อ GIGATV Topup แต่ไม่แสดงรายการราคาการ์ดเพิ่มเติมในข้อมูลที่อ่านได้ สอบถามบริการที่เปิดรับและราคาได้ทาง LINE"
+    ]
+  }
+]

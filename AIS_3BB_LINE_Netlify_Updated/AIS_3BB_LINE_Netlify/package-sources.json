@@ -1,0 +1,19 @@
+{
+  "checked": "2026-11-03",
+  "pages": [
+    "https://www.fiber.3bb.co.th/main/package-internet/internet-only",
+    "https://www.fiber.3bb.co.th/main/package-internet/Net-EntertainmentGang",
+    "https://www.fiber.3bb.co.th/main/package-internet/super-mesh",
+    "https://www.fiber.3bb.co.th/main/package-internet/home-fibrelan",
+    "https://www.fiber.3bb.co.th/main/package-internet/sme",
+    "https://www.fiber.3bb.co.th/main/package-internet/topup"
+  ],
+  "images": {
+    "internet-only": "https://www.fiber.3bb.co.th/content/dam/3bb/images/package/bb-24/new-bb24/1-24-Hero-1600-TH.jpg",
+    "Net-EntertainmentGang": "https://www.fiber.3bb.co.th/content/dam/3bb/images/2026/11-nov/Kv-Main-Net-Gang-1600x500.jpg",
+    "super-mesh": "https://www.fiber.3bb.co.th/content/dam/3bb/images/feb-2025/Super-Mesh_Hero-Banner-Website-1600x500.jpg",
+    "home-fibrelan": "https://www.fiber.3bb.co.th/content/dam/3bb/images/11-nov-25/hfl-plus/1-1600x500px.jpg",
+    "sme": "https://www.fiber.3bb.co.th/content/dam/3bb/images/package-internet/SME-Choice_Hero-Package-Webiste_1600x500.jpg",
+    "topup": "https://www.fiber.3bb.co.th/content/dam/3bb/images/package-internet/Top-Up_Hero-Package-Webiste_1600x500.jpg"
+  }
+}
